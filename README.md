@@ -40,16 +40,81 @@ Con Fabian Oloarte
 
 ## Análisis de canales 
 ¿Qué es el éxito? 
-¿Suscriptores? 
-Es más allá del número. No es la mejor métrica de éxito. 
-¿Views? 
-Views y suscriptores van de la mano. Lo importante es la cantidad de tiempo que motivas al usuario a estar en la plataforma. 
-**Ambas pueden ser métricas de vanidad**
-¿Dinero? 
+  ¿Suscriptores? 
+    - Es más allá del número. No es la mejor métrica de éxito. 
+  ¿Views? 
+    - Views y suscriptores van de la mano. Lo importante es la cantidad de tiempo que motivas al usuario a estar en la plataforma. 
+    **Ambas pueden ser métricas de vanidad**
+  ¿Dinero? 
+    - Va a llevar tiempp. 
+**48 video en promedio y 1.6 años.**
+Una nueva forma de medir el éxito es el agradecimiento. 
+
+### Tipos de canales: Marcas.
+ - Formula 1
+ - Disney 
+ - Creadores de contenido
+### Tipos de canales: Marcas personales: 
+  - Will Smith 
+  - Rosa Morel 
+### Tipos de canales: Creadores
+  - te lo resumo así nomas
+  - Luisito Comunica
+  - visualPolitik
 
 ## Definir tipo de contenido 
-
+Creatividad en dos dimensiones: 
+  - Contenido
+    Entre más creativo mejor siempre tenga relación con el tema, identidad, contenido.
+  - Producción audiovisual
+    Diseño gráfico, audio, video. 
+  ### Qué te define?
+    Quién eres? Es necesario conocer nuestra ideantidad para que el canal refleje tu identidad y tenga identidad. 
+    
+  ### El buen gusto:
+    ¿Cómo? Todos los que hacemos trabajo creativo lo hacemos basado en buen gusto. Se trata de senciblidad, de lo que podemos percibir. Si logras ver lo que está mal es por que sabes que es lo que está bien. Es necesario definir nuestras posturas. 
+  ### El super sentido: 
+    Nadie en el munedo tiene el mismo rostro, el mismo código genético. Es necesario vivir nuestra singularidad. 
+    ¿En qué la gente me pide consejos? 
+    todo lo que te mueva a nivel emocional, es parte de lo que te define. ¿Qué nos emociona? ¿Que nos da coraje? seguro hay gene que se conecta conmigo en el mismo nivel. 
+  ### Limpiar el paladar
+    Tirar todo lo que no funciona y deja entrar nuevas cosas: No podemos aprender más de lo que creemos que ya sabemos. 
+    ¿Cómo se hace educación ahora? ¿Cómo hacer nueva educación? ¿Qué es realmente educación efectiva? 
+    Eliminar o crear posturas es necesario. Es inevitable llegar a bloqueos y es necesario reformular lo que queremos proyectar. Es necesario dejar ir lo que esta definido, dejar nuestra mente maleable. 
+  ### Fijar posturas: 
+    No creerte lo sufientemente bueno en lo que haces. Es necesario volvernos referentes. 
+    Emitir con fundametos
+  ### Crear un buen gusto
+    Tesis, Antitesis, Sintesis
+    - Tesis: lo que creo que es bueno.
+    - Antitesis: lo que va en contra y aclara que no vamos a ser como nuestros heroes. El mundo no necesita otro "Morfeo" necesita un "NEO".
+   ### Growth hacking 
+    - Prueba - Mide - Escala
 ## Equipo y prepuesto 
 
 ## Formatos y propiedades
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
