@@ -93,28 +93,40 @@ Creatividad en dos dimensiones:
 ## Equipo y prepuesto 
 
 ## Formatos y propiedades
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  ### Formatos y adaptabilidad 
+    El video ahora se consumen en vertical 
+    Ahora se adapta 
+    1920 * 1080 vertical 
+    1 * 1 o 16-9 funcionan más en verticlaes que los horizontales. 
+  ### YoutubeLive
+    crea conexión en profundidad y no tanto a lo ancho
+    la audiencia en vivo siempre es menor a la audiencia en la demanda 
+    monetización en vivo
+    ir más allá de la marca, conectar como persona
+    Usar IFTT
+  ### Youtube community 
+    Es un recurso para llegar a la gente. 
+    Sirve para crear y aprender de la comunidad 
+  ### Youtube Stories 
+    Tienesd que tener 10k de suscriptores 
+    duran 7 días 
+  ### Youtube Premier
+    O estreno. Es momento de aumentar la expectativa. 
+    Les recuerda 30 minutos anrtes. 
+    Generar expectativa y audiencia
+  ### Espacio de interactividad con el Usuario 
+   hasta 5 cards dentro de un video 
+      encuesta de 4 posibilidades de respuesta
+      invitar a otro canal 
+      o video en espacifico 
+      link fuera de youtube
+    End of Screen 
+      los ultimos 20 segundos 
+      suscripción video recomendado 
+      plalist 
+      otro canal 
+      un link fuera de youtube 
+    Caja de descripción 
+      SEO (contenido para usuarios)
+      Interactividad 
+      CTA 
