@@ -4,7 +4,7 @@ Con Fabian Oloarte
 ## ¿Por qué Youtube? 
   De todas las plataformas de consumo de video la que más crece es Youtube. 
   El estudio esta [aquí]()
-  Es uno de los canales más grandes para "buscar" contenidos. 
+  Es uno de los canales más grandes para "buscar" contenidos. Sin embargo google images es el segundo buscador más importante.
   El usuario puede "dedicar" hasta 5 minutos para "calidifcar" el valor. 
   Innovación en ingresos. (referidos, marcas, soporte, super usuarios)
   Constate innovación. 
